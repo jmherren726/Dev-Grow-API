@@ -1,0 +1,6 @@
+@Dev_Grow_HostAddress = http://localhost:5099
+
+GET {{Dev_Grow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
